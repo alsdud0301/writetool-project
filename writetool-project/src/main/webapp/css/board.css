@@ -1,0 +1,199 @@
+@charset "UTF-8";
+.boardnav{
+	position : relative;
+	margin-top : 20px;
+	margin-left : 660px;
+	margin-right : 400px;
+	width :884px;
+	padding-top : 70px;
+}
+.contenthr{
+	border : 2px solid #324B4C;
+	box-shadow:5px 5px 5px 5px lightgray;
+}
+.searchbtn{
+	position : relative;
+	background-color : #324B4c;
+	color : white;
+	width : 80px;
+	height : 30px;
+	border:1px solid #E4E5E8;
+	box-shadow : inset 0px 4px 4px rgba(0,0,0,0.25);
+	border-radius : 5px;
+}
+.search{
+	position : relative;
+	width : 300px;
+	height : 20px;
+	box-shadow : inset 0px 4px 4px rgba(0,0,0,0.25);
+	border : 1px solid #E4E5E8;
+	border-radius : 5px;
+	
+}
+.pbtn{
+	position : relative;
+	background-color : white;
+	border : none;
+	font-weight : bold;
+	font-size : 15px;
+	font-family: 'Pretendard-Regular';
+	
+	
+}
+.lbtn{
+	position : relative;
+	background-color : white;
+	
+	border: none;
+	font-weight : bold;
+	font-size : 15px;
+	font-family: 'Pretendard-Regular';
+	
+}
+.arraybtn{
+	position : relative;
+	
+}
+.menunav{
+	position : relative;
+	width : 1714px;
+}
+.ulmenu{
+	list-style:none;
+	position : relative;
+	
+	padding : 0px;
+	width : 200px;
+}
+.limenu{
+	
+	height : 50px;
+	padding :10px 25px;
+	
+}
+.limenu{
+	color : black;
+	font-size : 20px;
+	text-decoration:none;
+	font-family: 'Pretendard-Regular';
+}
+.active{
+	text-decoration : none;
+	color : black;
+	font-weight : bold;
+}
+.limenu:hover{
+	background-color : #324B4C;
+	color : white;
+}
+.boarduldiv{
+	position : relative;
+	width : 883px;
+	
+	
+}
+.ullist{
+	list-style : none;
+	width : 848px;
+	
+}
+.contentdiv{
+	
+	
+}
+.boardsec{
+	position : relative;
+	
+}
+.uldiv{
+	position : absolute;
+	margin-left : 300px;
+	border : 1px solid black;
+	width :200px;
+	border-radius : 5px;
+	box-shadow : 0px 4px 4px rgba(0,0,0,0.25);
+	box-sizing : border-box;
+
+	
+	
+}
+.boarduldiv{
+	position : relative;
+	margin : 20px 0px;
+	margin-left : 656px;
+	margin-right : 400px;
+}
+.titlespan{
+	
+	font-size : 30px;
+	
+	
+}
+.userspan{
+	
+	font-size : 20px;
+	
+}
+.imagediv{
+	width : 260px;
+	height : 260px;
+}
+.image{
+	left: 30px;
+    position: relative;
+}
+@font-face {
+	font-family: 'Pretendard-Regular';
+	src:
+		url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff')
+		format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+.user{
+	position :absolute;
+	 left : 230px;
+	 top : 35px;
+	 font-family: 'Pretendard-Regular';
+	 font-size : 18px;
+}
+.Into{
+	position :absolute;
+	 left : 230px;
+	 top : 68px;
+	 font-family: 'Pretendard-Regular';
+	 font-size : 18px;
+}
+.searchdiv{
+	
+	position: relative;
+    left: 400px;
+}
+.title{
+	position :absolute;
+	 left : 230px;
+	 
+	 font-family: 'Pretendard-Regular';
+	 font-size : 25px;
+	 
+}
+.boardh1{
+	font-family: 'Pretendard-Regular';
+}
+.boardbar{
+	
+}
+.contestbanner{
+	margin :0px 697px;	
+}
+.contestimg{
+	width : 850px;
+	height : 150px;
+}
+.form-control{
+	width : 80px;
+	height : 20px;
+	font-size : 15px;
+	
+	font-family: 'Pretendard-Regular';
+}
